@@ -24,6 +24,6 @@ public class Passenger extends Person{
         return luggage.length();
     }
     public static void printTicket(){
-        System.out.println(PlaneTicket.class);
+        //System.out.println(PlaneTicket());
     }
 }
